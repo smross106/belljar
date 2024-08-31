@@ -1,4 +1,4 @@
-from components2 import *
+from belljar_fruitloop import *
 from scipy import optimize
 import numpy as np
 
@@ -190,7 +190,7 @@ def getCyclePerformance(input_args, *args, output=False):
 ESM_vec = [1, 150/1000, ESM_radiator]
 otherargs = (5, 273, 1/60, ESM_vec, "Oxygen")
 
-x0 = np.array([30, 1.01, 273+30, 0.5, 0.5])
+x0 = np.array([25, 1.01, 273+30, 0.5, 0.5])
 x0_upper = np.array([100, 3, 373, 1, 1])
 N = len(x0)
 zdelt = 0.00025

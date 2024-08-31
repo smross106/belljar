@@ -6,3 +6,35 @@ crash.log
 
 # For built boxes
 *.box
+*.pdf
+*.txt
+
+4a2_py.py
+belljar_cascade.py
+belljar_lockstep.py
+bjls_test.py
+cascade_manual.py
+cascade_manual2.py
+comp2test.py
+compinents.py
+components2.py
+
+crane_rewrite1.py
+crane_scratch1.py
+crane_scratch2.py
+
+fvm.py
+humidloop.py
+liq2v2.py
+liquefier1.py
+liquefier2.py
+liquefier4.py
+liqufier3.py
+
+lockstep_dilute_test.py
+metman_belljar.py
+multicomponent.py
+phase_sep_test.py
+timestepfluid.py
+timestepfluid2.py
+timestepfluid3.py
