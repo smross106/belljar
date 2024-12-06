@@ -10,9 +10,8 @@ crash.log
 *.txt
 
 4a2_py.py
-belljar_cascade.py
-belljar_lockstep.py
 bjls_test.py
+belljar_cascade.py
 cascade_manual.py
 cascade_manual2.py
 comp2test.py
@@ -25,7 +24,7 @@ crane_scratch2.py
 
 fvm.py
 humidloop.py
-liq2v2.py
+liqv2.py
 liquefier1.py
 liquefier2.py
 liquefier4.py
@@ -37,3 +36,8 @@ phase_sep_test.py
 timestepfluid.py
 timestepfluid2.py
 timestepfluid3.py
+
+reaction.py
+reaction2.py
+starship_thermal_model.py
+thermal_model_with_resistance.py
